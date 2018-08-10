@@ -1,0 +1,10 @@
+[filament]
+name = i3-PLA
+diameter = 1.7
+multiplierPercent = 110
+printingTemperature = 205
+enableCooling = True
+bedTemperature = 45
+fanSpeedMin = 80
+fanSpeedMax = 100
+minimalLayerTime = 3
